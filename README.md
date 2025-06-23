@@ -59,6 +59,8 @@ La efectividad de la solución reside en un prompt cuidadosamente diseñado (**F
 -   **Role-Playing:** Se le asigna a la IA el rol de "auditor de documentos extremadamente meticuloso" para contextualizar la tarea y mejorar la calidad de la respuesta.
 -   **Structured Output (JSON):** Se le exige a la IA que la salida sea **únicamente** un JSON bien formado. Esta es la técnica más importante, ya que hace que la respuesta sea directamente procesable por el código, eliminando la necesidad de análisis de texto (parsing) y reduciendo la fragilidad del sistema.
 -   **Chain of Thought (Implícito):** El prompt guía al modelo a seguir una secuencia lógica de pasos (leer, extraer, comparar, reportar), lo que mejora la fiabilidad del razonamiento para obtener un resultado preciso.
+## Conclusiones de la iniciativa
+Logró un éxito real en el problema enfrentado, dando un nuevo alcance de automatización para reducir los tiempos de gestión interna de la empresa y aportando una solución innovadora de automatización con IA.
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
